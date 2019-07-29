@@ -4,13 +4,17 @@ body {
 	
 }
  
-
-h6, 
-h5, 
+h6,
+h5,
 h4,
-h3
+h3,
 h2,
-h1 {
-	font-family: Rubik
-	Mono One', sans-serif
-	font-weight:600;
+h1, {font-family: RubikMono One', sans-serif
+font-weight:600;
+
+}
+img {width:165px}
+
+.navbar-brand img {width:165px}
+
+#footer {background-color:blue;}
